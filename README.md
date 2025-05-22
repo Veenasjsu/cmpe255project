@@ -20,7 +20,9 @@ This repository contains the code and resources for the **AI-driven Employment T
 - `requirements.txt`  
   - Python dependencies  
 - `README.md`  
-  - This file 
+  - This file
+- `metrics_summary`
+  -Has all the metrics calculated
 
 ## Installation
 
