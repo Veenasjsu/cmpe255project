@@ -22,7 +22,7 @@ This repository contains the code and resources for the **AI-driven Employment T
 - `README.md`  
   - This file
 - `metrics_summary`
-  -Has all the metrics calculated
+  - Has all the metrics calculated
 
 ## Installation
 
