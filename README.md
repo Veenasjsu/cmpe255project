@@ -29,17 +29,17 @@ This repository contains the code and resources for the **AI-driven Employment T
    git clone https://github.com/veenasjsu/cmpe255project.git
    cd cmpe255project
 
-2. **install dependencies**
+2. **Install dependencies**
 pip install -r requirements.txt
 
 
-3. **jupyter notebook notebooks/EDA.ipynb**
+3. **Jupyter notebook notebooks/EDA.ipynb**
 -Cleans and visualizes raw CES data.
 -Outputs vector-format SVG figures in assets/.
 -Forecasting & Anomaly Detection
 
 
-4. **jupyter notebook notebooks/Analysis.ipynb**
+4. **Jupyter notebook notebooks/Analysis.ipynb**
 -Runs ARIMA, Prophet, and LSTM models.
 -Evaluates with MAE/RMSE.
 -Interactive Dashboard
@@ -57,7 +57,5 @@ Model evaluation and comparison
 Dashboard development
 
 7. **Requirements**
-Python 3.8+
-
-Packages:
-pandas, numpy, scikit-learn, statsmodels, prophet, torch, plotly, Dash
+ - Python 3.8+
+ - Packages: pandas, numpy, scikit-learn, statsmodels, prophet, torch, plotly, Dash
