@@ -10,13 +10,13 @@ This repository contains the code and resources for the **AI-driven Employment T
 
 ## Repository Structure
 
-├── assets/
-│ └── *.svg # Vector figures for report
-├── dashboard/
-│ └── EDA.ipynb # EDA / Anomaly detection
-│ └── Analysis.ipynb # Employment trend analysis using ARIMA, Prophet, LSTM
-├── requirements.txt # Python dependencies
-└── README.md # This file
++ assets/
+ + *.svg # Vector figures for report
++ dashboard/
+ + EDA.ipynb # EDA / Anomaly detection
+ + Analysis.ipynb # Employment trend analysis using ARIMA, Prophet, LSTM
++ requirements.txt # Python dependencies
++ README.md # This file
 
 ## Installation
 
