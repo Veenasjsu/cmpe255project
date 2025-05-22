@@ -292,7 +292,7 @@ def main():
     else:
       app = create_dashboard(ts, inds)
       #app.run(mode='inline', port=8052)
-      app.run(debug=False, host='127.0.0.1', port=8052)
+      app.run(debug=False, host='127.0.0.1', port=8053)
 
 
 if __name__ == '__main__':
